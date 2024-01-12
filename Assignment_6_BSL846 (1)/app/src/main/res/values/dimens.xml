@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space">30</dimen>
+    <dimen name="space2">64</dimen>
+    <dimen name="space128">128</dimen>
+</resources>
